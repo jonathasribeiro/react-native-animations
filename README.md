@@ -10,7 +10,7 @@
 
 <!-- descrição -->
 <h2 align="center">
-  Calculadora
+  API de Animações do React Native
 </h2>
 
 <p align="center">
@@ -83,7 +83,7 @@ npm run start
 
 ## 📋 Licença
 
-Esse repositório está sobe a licença [MIT](https://github.com/jonathasribeiro/react-native-challange/blob/master/LICENSE).
+Esse repositório está sobe a licença [MIT](https://github.com/jonathasribeiro/react-native-animations/blob/master/LICENSE).
 
 Desenvolvido por Jonathas Ribeiro 🚀 [Entre em contato!](https://www.linkedin.com/in/jonathasribeiro151)
 
